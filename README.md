@@ -33,6 +33,7 @@
   
 ### Music Stack:
 ![Ableton Live](https://img.shields.io/static/v1?style=for-the-badge&message=Ableton+Live&color=000000&logo=Ableton+Live&logoColor=FFFFFF&label=)
+![Pro Tools](https://img.shields.io/static/v1?style=for-the-badge&message=Pro+Tools&color=222222&logo=Pro+Tools&logoColor=7ACB10&label=)
 ![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)
 
 
