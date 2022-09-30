@@ -2,7 +2,7 @@
   <img width="600" src="https://images.unsplash.com/photo-1508645255802-d7de28c18481?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80">
 </p>
 
-<h4 align="center"><samp> Hi Y'all, I'm Jordan! <br> I'm a jazz musician and front end developer <br> Ask me about Synths, Pedals and FX, and music technology <br> <h6>Or... y'know... Javascript and React</h6>  </samp></h4>
+<h4 align="center"><samp> Hi Y'all, I'm Jordan! <br> I'm a jazz musician and front end developer <br> Ask me about Synths, Pedals and FX, and music technology <br> <h6>Or... y'know... Typescript and React</h6>  </samp></h4>
 
 ### Connect:
 <a href="mailto:jskomal@gmail.com">
